@@ -34,5 +34,7 @@ study
 
 `pip install opencv-python`
 
+`conda install tqdm`
+
 
 ### 多进程screen用法
