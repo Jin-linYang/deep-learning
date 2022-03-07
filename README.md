@@ -26,5 +26,5 @@ study
 
 还有个办法就是不用新的python3.8  ，用python3.6  就不会有这些问题
 
-matplotlib  numpy  
+matplotlib  numpy  albumentations
 ### 多进程screen用法
