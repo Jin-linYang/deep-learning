@@ -17,10 +17,6 @@ study
 ### 环境
 比较新的python3.8 
 
-直接`conda install tiochvision`   得到版本tiochvision 0.2.1
-
-直接`conda install numpy`   得到版本numpy 1.21.2
-
 会遇到pillow7.0.0之后的版本和torchvison版本问题有冲突,
 解决方法(https://blog.csdn.net/Lee_lg/article/details/103901632)
 
@@ -36,5 +32,6 @@ study
 
 `conda install tqdm`
 
+torch和torchsion要去官网下对应GPU版本的，直接install会下到不能用GPU版本的，会报错(https://pytorch.org/get-started/locally/)
 
 ### 多进程screen用法
