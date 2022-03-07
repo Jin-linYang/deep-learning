@@ -14,5 +14,11 @@ study
 
 `conda deactivate` 退出已进入的环境
 
+### 环境
+比较新的python3.8 
+
+直接`conda install tiochvision`   得到版本tiochvision 0.2.1
+
+直接`conda install numpy`   得到版本numpy 1.21.2
 
 ### 多进程screen用法
