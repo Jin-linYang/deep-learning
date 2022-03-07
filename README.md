@@ -24,4 +24,6 @@ study
 会遇到pillow7.0.0之后的版本和torchvison版本问题有冲突,
 解决方法(https://blog.csdn.net/Lee_lg/article/details/103901632)
 
+还有个办法就是不用新的python3.8  ，用python3.6  就不会有这些问题
+
 ### 多进程screen用法
