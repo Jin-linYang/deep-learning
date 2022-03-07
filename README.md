@@ -21,6 +21,7 @@ study
 
 直接`conda install numpy`   得到版本numpy 1.21.2
 
-会遇到pillow7.0.0之后的版本和torchvison版本问题有冲突
+会遇到pillow7.0.0之后的版本和torchvison版本问题有冲突,
+解决方法(https://blog.csdn.net/Lee_lg/article/details/103901632)
 
 ### 多进程screen用法
