@@ -30,7 +30,7 @@ study
 
 `conda install numpy`
 
-`conda install albumentations`   可能会出现ImportError: cannot import name 'functional' ，那就不要用albumentations的turansform
+`conda install albumentations`   可能会出现ImportError: cannot import name 'functional' ，那就不要用albumentations的transform
 
 `pip install opencv-python`
 
