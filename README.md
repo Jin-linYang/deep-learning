@@ -33,6 +33,8 @@ study
 `conda install tqdm`
 
 torch和torchsion要去官网下对应GPU版本的，直接install会下到不能用GPU版本的，会报错(https://pytorch.org/get-started/locally/)
-`conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch`
+`conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch`   这个出错的话可以下以前的版本`conda install pytorch==1.9.0 torchvision==0.10.0 torchaudio==0.9.0 cudatoolkit=10.2 -c pytorch`
+
 用`nvidia-smi` 查看cuda版本
+
 ### 多进程screen用法
