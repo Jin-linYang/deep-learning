@@ -26,5 +26,13 @@ study
 
 还有个办法就是不用新的python3.8  ，用python3.6  就不会有这些问题
 
-matplotlib  numpy  albumentations
+`conda install matplotlib`
+
+`conda install numpy`
+
+`conda install albumentations`   可能会出现ImportError: cannot import name 'functional' ，那就不要用albumentations的turansform
+
+`pip install opencv-python`
+
+
 ### 多进程screen用法
